@@ -611,7 +611,7 @@ st.download_button(
     mime="text/csv",
 )
 
-st.subheader("簡単な考察（例）")
+# st.subheader("簡単な考察（例）")
 # st.markdown(
 #     """
 # - 地震はプレート境界付近に集中しやすく、特定の海域周辺で点群が密になる傾向が見られる。
